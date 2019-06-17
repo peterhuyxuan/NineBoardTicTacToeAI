@@ -23,4 +23,4 @@ chmod +x agent.py
 
 6) Observe the results of the game on the first terminal
 
-7) Repeat 2)-6) with a different 5-digit port number to play again
+7) Repeat Step 2-6 with a different 5-digit port number to play again
