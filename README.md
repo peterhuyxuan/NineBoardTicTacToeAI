@@ -1,4 +1,4 @@
-# NineBoardTicTacToeAI
+# Nine Board Tic Tac Toe AI
 
 This project is an agent that plays the game of Nine-Board Tic-Tac-Toe. 
 
